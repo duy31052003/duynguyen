@@ -1,0 +1,41 @@
+body {
+  background-color: #fdfde3;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.sidebar {
+  width: 220px;
+  background-color: #d3dcd3;
+  padding: 15px;
+  position: fixed;
+  height: 100%;
+}
+
+.sidebar h3,
+.sidebar a {
+  color: #000;
+  text-decoration: none;
+  display: block;
+  margin: 10px 0;
+}
+
+.main {
+  margin-left: 250px;
+  padding: 20px;
+}
+
+.main h1 {
+  color: #002060;
+}
+
+.photo {
+  width: 150px;
+  height: auto;
+  border-radius: 10px;
+}
+
+ul {
+  padding-left: 20px;
+}
